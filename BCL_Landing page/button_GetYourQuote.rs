@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_GetYourQuote</name>
+   <tag></tag>
+   <elementGuidId>6fbe8549-d9e6-4a23-a744-8851b0503db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='btnCalculate']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='btnCalculate']</value>
+      <webElementGuid>7fe387e9-f715-4c9c-a9ae-f4c73ff125a5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Ext</name>
+   <tag></tag>
+   <elementGuidId>909392af-2a9f-49d2-9c76-38a195e4a6d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txtExt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txtExt']</value>
+      <webElementGuid>bab3439c-30a9-4a06-a785-76021da74fa1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CoverageAmount</name>
+   <tag></tag>
+   <elementGuidId>56afed1a-43fa-461a-8e7f-d8785e18c985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='coverageAmount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='coverageAmount']</value>
+      <webElementGuid>69f38e5b-3931-4638-8369-32f637acf225</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

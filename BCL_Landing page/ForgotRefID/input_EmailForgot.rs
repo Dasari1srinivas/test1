@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_EmailForgot</name>
+   <tag></tag>
+   <elementGuidId>cc55c8de-81d8-41fe-81cc-18472d348feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='textForgotRefEmail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='textForgotRefEmail']</value>
+      <webElementGuid>b54d1d11-c2c4-4b9f-aba6-27c85defe180</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

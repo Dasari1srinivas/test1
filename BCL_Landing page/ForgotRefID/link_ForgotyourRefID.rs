@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_ForgotyourRefID</name>
+   <tag></tag>
+   <elementGuidId>7156729c-c8f5-4c03-919e-d74d9887a309</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;linkForgotrefID&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;linkForgotrefID&quot;]</value>
+      <webElementGuid>66d1d3de-dbc2-4714-950f-3321af4a0f9c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

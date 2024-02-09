@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_AcceptAndContinue</name>
+   <tag></tag>
+   <elementGuidId>3ff157a5-d9e2-40da-9b0a-c8387b183714</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;btnContinueStep1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;btnContinueStep1&quot;]</value>
+      <webElementGuid>cde3797b-996e-4781-8292-1cf41875b6fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

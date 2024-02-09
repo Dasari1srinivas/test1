@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_MondayTo</name>
+   <tag></tag>
+   <elementGuidId>a6756b75-0a0f-4b07-94c5-87cb9f24dbbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[normalize-space()='2:32am']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[normalize-space()='2:32am']</value>
+      <webElementGuid>136c2c37-fd05-49e6-8764-b0d58399a627</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_EmailUs</name>
+   <tag></tag>
+   <elementGuidId>2b4adf73-1755-4212-aa1c-f64b7fd8af78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[@id='contactAdvisorLabel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[@id='contactAdvisorLabel']</value>
+      <webElementGuid>beae251f-1d42-48bc-8e5e-7a6bc9f03190</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

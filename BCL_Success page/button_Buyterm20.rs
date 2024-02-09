@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buyterm20</name>
+   <tag></tag>
+   <elementGuidId>bb50bf18-b907-4c82-953a-c2dbe9968f64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;p_lt_WebPartZone3_ZoneA_pageplaceholder_p_lt_WebPartZone3_Zonesecpad_BCL_SuccessPage_Term20select&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;p_lt_WebPartZone3_ZoneA_pageplaceholder_p_lt_WebPartZone3_Zonesecpad_BCL_SuccessPage_Term20select&quot;]</value>
+      <webElementGuid>402af3ac-5b43-4444-ad6d-4411a1530bc2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

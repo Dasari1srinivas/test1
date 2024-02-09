@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Yes, through my work</name>
+   <tag></tag>
+   <elementGuidId>fb71512d-128a-4b16-9819-7165d410e65c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#navButton_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='navButton_1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8391c583-544a-48fd-b089-7c7381efc4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60392c97-d8c1-49e0-a3d5-0546166d2d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>navButton_1</value>
+      <webElementGuid>6cfb280f-2ea9-4d3a-a806-0249e941247c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator ml-2 mr-2 mt-2 btnChoice mat-raised-button mat-button-base ROUNDED cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>14dc0a6b-7dfb-41eb-907f-bcf7592a28b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, through my work</value>
+      <webElementGuid>203fb2d9-abc4-40a8-a044-e24e4255e8c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card-content ml-0 mr-0 ml-lg-5 mr-lg-5 p-3&quot;]/app-existing-insurance[@class=&quot;ng-tns-c126-13 ng-star-inserted&quot;]/form[@class=&quot;flexgrow ng-tns-c126-13 ng-trigger ng-trigger-fadeInAnimation ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;flexgrow ng-tns-c126-13&quot;]/div[@class=&quot;row ng-tns-c126-13&quot;]/div[@class=&quot;col text-center ng-tns-c126-13&quot;]/div[@class=&quot;d-flex justify-content-center ng-tns-c126-13 ng-star-inserted&quot;]/app-btn-choice[@class=&quot;ng-tns-c126-13&quot;]/button[@id=&quot;navButton_1&quot;]</value>
+      <webElementGuid>efe681ff-0e92-435c-8020-e32a50766fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BCL/BCL_Landing page/NeedsAnalysis/Page_Term and whole life insurance plans  B_9ccd89/iframe_Close_tks-dialog-body</value>
+      <webElementGuid>e255c7f3-d4ff-4cfb-a45b-dee4350ea6e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='navButton_1']</value>
+      <webElementGuid>4bf6b21e-4331-44df-a957-ea8906dbe193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/app-existing-insurance/form/div/div/div/div/app-btn-choice/button</value>
+      <webElementGuid>953f3d6d-b9b6-4217-a66f-6513b73beba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all that apply'])[1]/following::button[1]</value>
+      <webElementGuid>587fe374-b634-4a4a-80c4-0a69cbac2f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, as an individual'])[1]/preceding::button[1]</value>
+      <webElementGuid>5625f3c9-4e1b-42f1-b3ed-033c6eb225ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>011d19cf-e663-44d9-960d-f85ec3a2e122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'navButton_1' and (text() = 'Yes, through my work' or . = 'Yes, through my work')]</value>
+      <webElementGuid>7c104046-6b2e-4311-8b22-850115f61df8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

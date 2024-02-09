@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Province</name>
+   <tag></tag>
+   <elementGuidId>26326b43-2233-4181-9103-ba1a3a59cb20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='ddlProvince']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id='ddlProvince']</value>
+      <webElementGuid>156e6896-e55c-4e7c-b29e-72121c107486</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

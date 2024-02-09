@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Coverage Calculator</name>
+   <tag></tag>
+   <elementGuidId>5b183465-bf4e-4b42-8359-53bdc5ce24b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-NACoverageCalculator</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-NACoverageCalculator']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71461fb4-2fc1-45f7-96de-bafabca22062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3832d98b-6e98-4198-9268-3c129f0f208a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-NACoverageCalculator</value>
+      <webElementGuid>798b9391-a49b-4991-815d-59a819ff61a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnNeedAnalysis_OptionalCoverage</value>
+      <webElementGuid>2c07035f-39e8-42b7-83ac-c9b36b7a13bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>showNA()</value>
+      <webElementGuid>668b7af7-3d14-4c19-b16e-54395f2ff992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Coverage Calculator</value>
+      <webElementGuid>9b63848e-87b9-439a-a490-ce49e84cb48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-NACoverageCalculator&quot;)</value>
+      <webElementGuid>17f17610-0c59-4e43-b3d6-7f86ba470f58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-NACoverageCalculator']</value>
+      <webElementGuid>621c7528-21f7-49ee-a1b0-3e61ee89ee7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Wizardform-Panels']/div[3]/div/span/button</value>
+      <webElementGuid>e332c120-ceb1-49e0-881f-246a43fff349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://lautorite.qc.ca/en/general-public'])[1]/following::button[1]</value>
+      <webElementGuid>5e07a6d3-24ad-4461-adde-1bb541fb0c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coverage calculator'])[2]/following::button[1]</value>
+      <webElementGuid>849c7ffd-2808-4808-931b-6ec5e5d9f5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You need to complete step 2 before you can calculate your quote.'])[1]/preceding::button[1]</value>
+      <webElementGuid>0f821670-0d86-4a1a-953a-185ff848eb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='needs analysis'])[1]/preceding::button[1]</value>
+      <webElementGuid>4865eeb3-f474-4daa-850f-5f51b950e2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Coverage Calculator']/parent::*</value>
+      <webElementGuid>3c40c6ef-935f-4aed-885d-d404eb33c87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>665cbf29-78e5-4768-b01e-55587a278342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btn-NACoverageCalculator' and (text() = '
+                                                    Coverage Calculator' or . = '
+                                                    Coverage Calculator')]</value>
+      <webElementGuid>5c5a29b4-3394-456d-ac70-e33971c09c59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

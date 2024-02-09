@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_EmailConsent</name>
+   <tag></tag>
+   <elementGuidId>4c8d93d6-8782-46a4-a2ba-f74576ffca18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='ContactAdvisorReceiveEmail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='ContactAdvisorReceiveEmail']</value>
+      <webElementGuid>9a51a68f-71c9-4666-a246-bfaa4637560d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

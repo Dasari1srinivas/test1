@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SendEmail</name>
+   <tag></tag>
+   <elementGuidId>e11750a0-f6f5-4e6e-b05b-6ba1861ae84e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='Business-SendEmail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='Business-SendEmail']</value>
+      <webElementGuid>68d34fc6-292c-4b6b-884c-0f2012c31f9f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CriticalIllness</name>
+   <tag></tag>
+   <elementGuidId>1c48ae13-dd64-4885-a7e3-b63dd8c8dc9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txtCriticalIllnessAmount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txtCriticalIllnessAmount']</value>
+      <webElementGuid>bfa22356-cf1d-4752-b255-e796d13a84f2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

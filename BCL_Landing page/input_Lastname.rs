@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Lastname</name>
+   <tag></tag>
+   <elementGuidId>cf4e2a2c-60db-4d53-993d-cb525bfb018d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='lName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='lName']</value>
+      <webElementGuid>c355f496-b3a7-47cd-8cf9-39c372a16f45</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

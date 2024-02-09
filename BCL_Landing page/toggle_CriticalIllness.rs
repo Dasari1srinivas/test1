@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_CriticalIllness</name>
+   <tag></tag>
+   <elementGuidId>9ddf9f87-5474-407f-8999-5a638e5796b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for='name-3'][normalize-space()='Yes']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for='name-3'][normalize-space()='Yes']</value>
+      <webElementGuid>2524cab2-f130-40c4-9f55-2740bf2bf43a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

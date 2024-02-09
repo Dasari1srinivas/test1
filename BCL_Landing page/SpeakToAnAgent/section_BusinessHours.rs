@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_BusinessHours</name>
+   <tag></tag>
+   <elementGuidId>b360cbdc-6fad-4b43-8d9b-7de7b7f588c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='business-hours']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='business-hours']</value>
+      <webElementGuid>86b76707-5d4b-43aa-88f6-0895e332d84f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

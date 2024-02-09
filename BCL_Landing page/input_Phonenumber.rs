@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phonenumber</name>
+   <tag></tag>
+   <elementGuidId>7a187838-3842-4db6-95b8-b7b9028b0e5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txtPhone']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txtPhone']</value>
+      <webElementGuid>b57ac1fb-16bb-403c-8aeb-5af921d8cbed</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

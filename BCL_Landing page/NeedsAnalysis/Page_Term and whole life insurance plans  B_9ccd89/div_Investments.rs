@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Investments</name>
+   <tag></tag>
+   <elementGuidId>8a867365-6b1d-4d49-aa4f-3582bb4ccff4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c26-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/app-assets/form/div/div[2]/div/app-number-input/div/div/mat-form-field/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>623e207f-10bc-4d64-80d7-c2e81e2aed4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c26-8</value>
+      <webElementGuid>5a5ae8dc-e959-4220-8cc1-f2d7437b4b5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Investments</value>
+      <webElementGuid>94bc608d-5a4d-41ee-8dba-5b40a211b109</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card-content ml-0 mr-0 ml-lg-5 mr-lg-5 p-3&quot;]/app-assets[@class=&quot;ng-tns-c103-6 ng-star-inserted&quot;]/form[@class=&quot;flexgrow ng-tns-c103-6 ng-trigger ng-trigger-fadeInAnimation ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;flexgrow ng-tns-c103-6&quot;]/div[@class=&quot;row ng-tns-c103-6&quot;]/div[@class=&quot;col text-center ng-tns-c103-6&quot;]/app-number-input[@class=&quot;ng-tns-c103-6&quot;]/div[@class=&quot;row ng-valid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-8 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-8&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-8&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c26-8&quot;]</value>
+      <webElementGuid>2a5a4ac9-701b-4105-9908-d727540238ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BCL/BCL_Landing page/NeedsAnalysis/Page_Term and whole life insurance plans  B_9ccd89/iframe_Close_tks-dialog-body</value>
+      <webElementGuid>1bc1f4a9-9c8e-4ba5-9de4-5c08bcc91243</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/app-assets/form/div/div[2]/div/app-number-input/div/div/mat-form-field/div/div/div[4]</value>
+      <webElementGuid>9d6ba298-f8af-4302-bd65-46d27b3127ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liquidities'])[1]/following::div[19]</value>
+      <webElementGuid>524061cd-9435-4936-a221-ee253cc273ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/app-number-input/div/div/mat-form-field/div/div/div[4]</value>
+      <webElementGuid>139aa5ec-608f-440c-bfa2-97abaabda849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Investments' or . = 'Investments')]</value>
+      <webElementGuid>91a03beb-5567-44f9-90de-c2de47128b65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

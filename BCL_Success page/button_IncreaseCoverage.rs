@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_IncreaseCoverage</name>
+   <tag></tag>
+   <elementGuidId>26312534-dea8-409a-b703-5c629a95115c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;jq-mob-slickslidersection&quot;]/div/div[1]/span[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;jq-mob-slickslidersection&quot;]/div/div[1]/span[2]/a</value>
+      <webElementGuid>728962e6-5e79-4943-bbc6-ea8e11a3c420</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Close</name>
+   <tag></tag>
+   <elementGuidId>c655bbf0-f7cd-4052-b865-c81b38ec6da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btnNAClose</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cross Life Insurance Coverage Calculator'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03c1b43a-b250-44cc-8033-752755236f48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnNAClose</value>
+      <webElementGuid>b00a4eb1-051f-4186-8de7-59674dfd5b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>⨉Close</value>
+      <webElementGuid>f6def256-ca64-48fe-ac49-8faf66f009bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;modernizr-sizes modernizr-supports modernizr-srcset modernizr-serviceworker modernizr-touchevents&quot;]/body[@class=&quot;LTR Chrome ENUS ContentBody&quot;]/div[@class=&quot;tks-dialog-modal-background&quot;]/div[@class=&quot;tks-dialog&quot;]/div[@class=&quot;tks-dialog-header&quot;]/div[@class=&quot;btnNAClose&quot;]</value>
+      <webElementGuid>c258de73-24c0-4eff-a13a-29ac527d558d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Cross Life Insurance Coverage Calculator'])[2]/following::div[1]</value>
+      <webElementGuid>584a7c77-6657-405b-8800-d74662916e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return to website'])[1]/following::div[8]</value>
+      <webElementGuid>6166f446-3cda-4ba0-a44e-c0dbed6387c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>18954188-f919-4fbb-8638-78290f325c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '⨉Close' or . = '⨉Close')]</value>
+      <webElementGuid>3199a549-4028-4b95-bb37-130f515260ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

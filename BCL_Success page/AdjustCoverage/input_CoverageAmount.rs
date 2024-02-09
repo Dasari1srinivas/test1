@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_CoverageAmount</name>
+   <tag></tag>
+   <elementGuidId>dec8fa7b-5791-4ec5-adc6-a9ccd03712b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='txtCoverageAmount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='txtCoverageAmount']</value>
+      <webElementGuid>e05f321e-8f13-41be-8fd7-4437fcb16640</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

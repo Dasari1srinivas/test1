@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Emailconsent</name>
+   <tag></tag>
+   <elementGuidId>3832f77c-2d42-4349-a9d9-fcb45b2399b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@for='chkEmailNotification']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[@for='chkEmailNotification']</value>
+      <webElementGuid>6f94cf73-e3d8-4a96-abf9-8a4360529555</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

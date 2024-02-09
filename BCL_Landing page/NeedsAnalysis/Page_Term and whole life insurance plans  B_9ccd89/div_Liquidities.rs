@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Liquidities</name>
+   <tag></tag>
+   <elementGuidId>011fd17e-43fc-4e96-ac68-46d6f064c5d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c26-7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div/div/app-assets/form/div/div/div/app-number-input/div/div/mat-form-field/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17096033-1e2f-4a14-ad24-90c27da9d66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c26-7</value>
+      <webElementGuid>76860290-dd1b-4aad-a094-d031f21f0a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Liquidities</value>
+      <webElementGuid>cb1e868f-5934-4391-9ec1-38363abc1bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;card-content ml-0 mr-0 ml-lg-5 mr-lg-5 p-3&quot;]/app-assets[@class=&quot;ng-tns-c103-6 ng-star-inserted&quot;]/form[@class=&quot;flexgrow ng-tns-c103-6 ng-trigger ng-trigger-fadeInAnimation ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;flexgrow ng-tns-c103-6&quot;]/div[@class=&quot;row ng-tns-c103-6&quot;]/div[@class=&quot;col text-center ng-tns-c103-6&quot;]/app-number-input[@class=&quot;ng-tns-c103-6&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;col-12 ng-star-inserted&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c26-7 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-outline mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c26-7&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c26-7&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c26-7&quot;]</value>
+      <webElementGuid>22aae858-de56-4933-8fba-95943c6cef51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BCL/BCL_Landing page/NeedsAnalysis/Page_Term and whole life insurance plans  B_9ccd89/iframe_Close_tks-dialog-body</value>
+      <webElementGuid>b563b0cb-84e3-431c-8d9d-1b2f0a2a96d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div/div/app-assets/form/div/div/div/app-number-input/div/div/mat-form-field/div/div/div[4]</value>
+      <webElementGuid>fa3a6c79-6f05-4faa-be5b-ecd96f707661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What is the market value of your assets, excluding your family residence?'])[1]/following::div[16]</value>
+      <webElementGuid>76f15da1-2b62-437d-a83e-9d3f1b88b4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[4]</value>
+      <webElementGuid>31cd2741-a065-4359-b2a9-c490b743b96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Liquidities' or . = 'Liquidities')]</value>
+      <webElementGuid>435a2939-84c9-4784-b51e-d08453bc0057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

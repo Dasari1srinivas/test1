@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Hospitalized</name>
+   <tag></tag>
+   <elementGuidId>1be07e01-a2cf-444e-bd90-da4b41e1144c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='ddlHospitalized']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id='ddlHospitalized']</value>
+      <webElementGuid>73dc569b-294c-4ae8-80f1-83e0544f2452</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

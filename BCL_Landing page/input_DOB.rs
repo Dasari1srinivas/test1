@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_DOB</name>
+   <tag></tag>
+   <elementGuidId>5b02f15b-5fce-40bc-b3ab-1aaba600b82c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='datepicker']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='datepicker']</value>
+      <webElementGuid>5517fa44-bed7-458d-9e0c-c3be84df86e7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

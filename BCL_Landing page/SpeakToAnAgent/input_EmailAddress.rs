@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_EmailAddress</name>
+   <tag></tag>
+   <elementGuidId>8ed29200-3334-4593-9503-e9eedfd94db4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contactAdvisor&quot;]/div/div/div[2]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contactAdvisor&quot;]/div/div/div[2]/div[2]/input</value>
+      <webElementGuid>ab876379-0b5e-4ca7-8d42-0db6bfe08c1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
